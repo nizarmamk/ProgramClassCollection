@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prak13_ClassCollection/1.0.0": {
+        "runtime": {
+          "Prak13_ClassCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prak13_ClassCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
